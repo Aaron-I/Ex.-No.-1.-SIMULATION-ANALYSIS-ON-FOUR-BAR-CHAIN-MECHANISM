@@ -19,6 +19,9 @@
 ###  ●	Mini Drafter.
 ###  ●	Geometry instruments.
 
+### Name:Aaron I
+### Register Number:212223230002
+
 ## PROCEDURE:
 ###   1. Draw a horizontal line AD of length 120 mm. 
 ###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
@@ -53,10 +56,10 @@
 
 
 ## Output:
+<img width="1906" height="901" alt="image" src="https://github.com/user-attachments/assets/34bb4719-f6c5-40ab-89b3-09b344c68e4a" />
+<img width="985" height="522" alt="image" src="https://github.com/user-attachments/assets/ca179c3a-78d6-4acc-bd1f-457ded4bdfe7" />
 
 
-### Name:
-### Register Number: 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
